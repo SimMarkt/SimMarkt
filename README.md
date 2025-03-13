@@ -19,7 +19,7 @@
     - [Advanced Learning Algorithms](https://coursera.org/share/378216fce63cd155bba60d712230845b)  
     - [Unsupervised Learning, Recommenders, and Reinforcement Learning](https://coursera.org/share/a1c4a11a9db7d5dac79d7087cf670aac)  
   - [Machine Learning (Stanford University)](https://coursera.org/share/acb443bfc937dd8526cdae26a77927a7)  
-  - Introduction to Cloud Computing (IBM) 
-  - Introduction to Containers with Docker, Kubernetes & OpenShift (IBM)  
+  - [Introduction to Cloud Computing (IBM)](https://coursera.org/share/51e34e95630b69e0f9b55f8389b74b98) 
+  - [Introduction to Containers with Docker, Kubernetes & OpenShift (IBM)](https://coursera.org/share/4c809f19316463be8ccd6c796fe82c02) 
 - 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/simon-markthaler-205184250/) and @ [FAU Erlangen-Nürnberg](https://www.evt.tf.fau.de/person/simon-markthaler/)  
 

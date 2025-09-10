@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ✨ I am currently working as an **Energy Engineer and Data Scientist** at [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.de/)  
+- ✨ I am currently working as an **Energy Engineer and Data Scientist** (PhD) at [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.de/)
 - 👨‍🎓 Certifications:  
   - [Reinforcement Learning Specialization (University of Alberta)](https://coursera.org/share/cbd7bdf5544e7f0ef8c9d8e4302f6cb4):  
     - [Fundamentals of Reinforcement Learning](https://coursera.org/share/99c8796105528762031daf1e01940984)
